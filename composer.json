@@ -1,0 +1,21 @@
+{
+    "name": "kirjuha1982/yii2-image-upload",
+    "description": "Image upload",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Kirill",
+            "email": "kd@kw2.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "kirjuha\\imageupload\\": ""
+        }
+    }
+}
